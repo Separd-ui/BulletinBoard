@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "503958881956",
+    "firebase_url": "https://bulettin-board-default-rtdb.firebaseio.com",
+    "project_id": "bulettin-board",
+    "storage_bucket": "bulettin-board.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503958881956:android:69b4c0dc9c20979c7dc831",
+        "android_client_info": {
+          "package_name": "com.example.bulletinboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503958881956-o9bqghr2k83l9j13kucd1sutoaqnho6o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bulletinboard",
+            "certificate_hash": "ca51568f420e5f55aacdb706b6cfb66029e670c9"
+          }
+        },
+        {
+          "client_id": "503958881956-t3imtq916orlt1b8nj90i75906kmogbd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmK1rC4FwbCNPX7jAZwi4eKugwElNgt8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503958881956-t3imtq916orlt1b8nj90i75906kmogbd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

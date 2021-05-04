@@ -1,0 +1,18 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <PreferenceCategory
+        android:icon="@drawable/ic_text"
+        android:title="@string/settings_text"
+        app:icon="@drawable/ic_text">
+
+        <ListPreference
+            android:defaultValue="1"
+            android:entries="@array/color_array"
+            android:entryValues="@array/color_value"
+            android:icon="@drawable/ic_color"
+            android:key="list_preference_change_text"
+            android:summary="@string/change_color_sub"
+            android:title="@string/change_color"
+            app:summary="@string/change_color_sub" />
+    </PreferenceCategory>
+</PreferenceScreen>

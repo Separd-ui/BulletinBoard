@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="category_spinner">
+        <item>Машины</item>
+        <item>Бытовая техника</item>
+        <item>Телефоны</item>
+        <item>Компьютеры</item>
+    </string-array>
+    <string-array name="color_array">
+        <item>Красный</item>
+        <item>Чёрный</item>
+        <item>Синий</item>
+        <item>Зелёный</item>
+    </string-array>
+    <string-array name="color_value">
+        <item>#FF1706</item>
+        <item>#FF000000</item>
+        <item>#3F51B5</item>
+        <item>#4CAF50</item>
+    </string-array>
+    <!-- Reply Preference -->
+    <string-array name="reply_entries">
+        <item>Reply</item>
+        <item>Reply to all</item>
+    </string-array>
+
+    <string-array name="reply_values">
+        <item>reply</item>
+        <item>reply_all</item>
+    </string-array>
+</resources>

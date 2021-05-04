@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Доска объявлений</string>
+    <string name="my_ads">Мои объявления</string>
+    <string name="cars_ads">Машины</string>
+    <string name="banner_id" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="pc_ads">Компьютеры</string>
+    <string name="smartphone_ads">Телефоны</string>
+    <string name="electronic_ads">Бытовая техника</string>
+    <string name="sign_in">Вход</string>
+    <string name="sign_up">Зарегистрироваться</string>
+    <string name="sign_out">Выход</string>
+    <string name="acc">Аккаунт</string>
+    <string name="ads">Объявления</string>
+    <string name="enter_mail">Введите свой E-mail</string>
+    <string name="enter_pass">Введите пароль</string>
+    <string name="register">Регистрация</string>
+    <string name="enter">Войти</string>
+    <string name="enter_acc">Войти в существующий аккаунт</string>
+    <string name="enter_header">Войдите или зарегестрируйтесь</string>
+    <string name="hint_name">Введите название объявления</string>
+    <string name="hint_price">Цена товара</string>
+    <string name="hint_desc">Описание товара</string>
+    <string name="hint_tel">Номер телефона</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="sure">Вы уверены ,что хотите выйти из своего аккаунта?</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="delete">Удалить объявление</string>
+    <string name="delete_mes">Вы действительно хотите удалить объявление?</string>
+    <string name="price_show">Цена:</string>
+    <string name="phone_show">Телефон:</string>
+    <string name="load">Идёт загрузка.</string>
+    <string name="load1">Пожалуйста подождите!</string>
+    <string name="main_img">Главное фото</string>
+    <string name="img_2">Фото 2</string>
+    <string name="img_3">Фото 3</string>
+    <string name="google_sign_up">Google Sign Up</string>
+    <string name="google_sign_in">Google Sign In</string>
+    <string name="link_title">Ссылка для подтверждения</string>
+    <string name="link_message">Вы желаете получить ссылку для подтверждения аккаунта ещё раз?</string>
+    <string name="alert">Внимание</string>
+    <string name="alert_message">У вас уже есть аккаунт,войдите в ваш существующий аккаунт для регистрации email адреса.</string>
+    <string name="re_pas">Забыли пароль?</string>
+    <string name="enter_email">Введите свой email для восстановления пароля.</string>
+    <string name="send_restore" translatable="false">Отправить код для восстановления</string>
+    <string name="start" translatable="false">начать</string>
+    <string name="settings" translatable="false">Настройки</string>
+    <string name="change_color" translatable="false">Настройки цвета текста</string>
+    <string name="change_color_sub" translatable="false">Выберите цвет текста , который будет отображаться на глваном экране</string>
+    <string name="settings_text" translatable="false">Настройки текста</string>
+    <string name="logo_text" translatable="false">Добро пожаловать</string>
+
+    <string name="title_activity_settings">Настройки текста</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+</resources>

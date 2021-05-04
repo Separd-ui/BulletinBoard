@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.bulletinboard">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CALL_PHONE"/>
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo_enter"
+        android:label="@string/app_name"
+        android:requestLegacyExternalStorage="true"
+        android:roundIcon="@drawable/logo_enter"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.NoToolBar"
+        tools:replace="android:theme">
+        <activity
+            android:name=".SettingsActivity"
+            android:label="@string/title_activity_settings" android:theme="@style/Theme.ToolBar"/>
+        <activity android:name=".LogoActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".EditAct" />
+        <activity android:name=".ShowActivity" />
+        <activity android:name=".ChooseImage" />
+        <activity
+            android:name=".MainActivity"
+            android:theme="@style/Theme.NoToolBar" />
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-3940256099942544~6300978111" />
+    </application>
+
+</manifest>
